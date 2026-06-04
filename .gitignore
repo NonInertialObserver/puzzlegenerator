@@ -2,9 +2,13 @@ demo.png
 *.log
 *.tmp
 ./pieces
-./build
-./dist
 *venv
 piece**png
 *vscode*
 *.pyc
+pieces.json
+pieces/*
+__pycache__
+dist/
+build/
+temp/
