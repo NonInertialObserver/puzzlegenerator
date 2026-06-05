@@ -8,7 +8,8 @@ Generate jigsaw-style puzzle pieces from an image with a simple desktop GUI or c
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
-
+## Notice
+Update will be on [JigsawGenProject](https://github.com/NonInertialObserver/jigsawgen). This repo will be public archived.
 ## Overview
 
 Puzzle Generator cuts an input image into a configurable grid of jigsaw-like pieces. Each piece is exported as an individual image with irregular tabs and blanks. The project includes:
